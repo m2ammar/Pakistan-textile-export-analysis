@@ -20,10 +20,10 @@ textiles — showing where Pakistan's real opportunity lies.
 - Tableau — data visualization and dashboard
 
 ## Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## ER Diagram
-![ER Diagram](er_diagram.png)
+![ER Diagram](ER_diagram.png)
 
 ## Database Schema
 - `products` — textile product categories with HS chapter codes
