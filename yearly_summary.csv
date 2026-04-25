@@ -1,0 +1,5 @@
+summary_id,fiscal_year,total_exports_usd,yoy_growth_percent,cotton_production_bales,energy_cost_per_kwh
+1,2021-22,19320.00,26.00,8200000,0.098
+2,2022-23,16509.00,-14.55,4900000,0.130
+3,2023-24,16650.00,0.85,6590000,0.135
+4,2024-25,16900.00,1.50,5800000,0.140

@@ -1,0 +1,11 @@
+product_id,product_name,category,hs_chapter
+1,"Raw Cotton",Traditional,52
+2,"Cotton Yarn",Traditional,52
+3,"Cotton Fabric",Traditional,52
+4,Knitwear,Value-Added,61
+5,"Woven Garments",Value-Added,62
+6,Bedwear,Value-Added,63
+7,Towels,Value-Added,63
+8,"Synthetic Textile",Traditional,55
+9,"Made-up Articles",Value-Added,63
+10,"Tents & Canvas",Traditional,59
