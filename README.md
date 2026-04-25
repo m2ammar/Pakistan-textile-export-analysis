@@ -23,7 +23,7 @@ textiles — showing where Pakistan's real opportunity lies.
 ![Dashboard](Dashboard.png)
 
 ## ER Diagram
-![ER Diagram](ER diagram.png)
+![ER Diagram](er_diagram.png)
 
 ## Database Schema
 - `products` — textile product categories with HS chapter codes
